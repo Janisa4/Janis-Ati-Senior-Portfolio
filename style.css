@@ -1,5 +1,11 @@
 h1{
-  color:blue;
+  color:darkgrey;
+  background-color:white;
+  padding:10px;
+  margin: 0px;
+  border:15px;
+  display: flex;
+  justify-content:flex-end;
 }
 body{
     background-color:grey;
