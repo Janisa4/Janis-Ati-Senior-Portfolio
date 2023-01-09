@@ -1,7 +1,9 @@
 .name{
   color:darkgrey;
   background-color:white;
-  padding:10px;
+  font-family: 'Dancing Script', cursive;
+  font-size:70px;
+  padding:10px 24px ;
   margin: 0px;
   border:15px;
   display: flex;
