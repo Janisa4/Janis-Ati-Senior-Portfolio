@@ -17,7 +17,11 @@ body{
   justify-content: flex-start;
 }
 h3{
+  color:white;
   padding:12px;
   font-size:30px;
   font-family: 'Patrick Hand', cursive;
+}
+.dots{
+  color:black;
 }
