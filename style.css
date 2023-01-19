@@ -1,5 +1,5 @@
 .name{
-  color:darkgrey;
+  color:#808080;
   background-color:white;
   font-family: 'Dancing Script', cursive;
   font-size:70px;
@@ -10,7 +10,7 @@
   justify-content:flex-end;
 }
 body{
-    background-color:grey;
+    background-color:#999999;
 }
 .important{
   display:flex;
