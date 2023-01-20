@@ -16,15 +16,12 @@ body{
   display:flex;
   justify-content: flex-start;
 }
- a{
+h3{
   color:white;
   padding:12px;
   font-size:30px;
   font-family: 'Patrick Hand', cursive;
-   text-decoration: none;
 }
 .dots{
   color:black;
 }
-
-
