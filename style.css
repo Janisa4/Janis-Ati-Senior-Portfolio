@@ -9,6 +9,10 @@
   display: flex;
   justify-content:flex-end;
 }
+.dropbtn{
+  color:white;
+  font-family: 'Patrick Hand', cursive;
+}
 body{
     background-color:#999999;
 }
@@ -37,9 +41,10 @@ body{
   justify-content:center;
 }
 .movieproject:hover {
-  transform:scale(1.1);
+  transform:scale(1.06);
 }
 .mainFavProject{
+  font-size:60px;
   color:white;
   font-family: 'Patrick Hand', cursive;
   margin:15px 0px 5px 0px;
@@ -72,6 +77,9 @@ body{
 }
 a hovers:hover {
   background-color:lightblue;
+}
+img{
+    box-shadow: 10px 10px 5px #737373;
 }
 
 

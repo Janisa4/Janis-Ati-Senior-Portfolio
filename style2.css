@@ -1,0 +1,23 @@
+body{
+  background-color:#999999;
+}
+.firstOne{
+  font-family: 'Solitreo', cursive;
+  font-size:60px;
+  margin:60px;
+  display:flex;
+  justify-content:center;
+  color:white;
+}
+img{
+  display:flex;
+  justify-content:flex-start;
+  margin:10px 1px 140px 140px;
+  box-shadow: 10px 10px 5px #737373;
+}
+img:hover {
+  transform:scale(1.06);
+}
+.fixDes{
+  margin-left:240px;
+}
