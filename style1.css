@@ -1,6 +1,11 @@
 body{
   background-color:#999999;
 }
-.hi{
+.firstTitle{
+  font-family: 'Solitreo', cursive;
+  font-size:60px;
+  margin:20px;
+  display:flex;
+  justify-content:center;
   color:white;
 }
