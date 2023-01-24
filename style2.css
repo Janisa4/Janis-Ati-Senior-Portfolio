@@ -2,22 +2,51 @@ body{
   background-color:#999999;
 }
 .firstOne{
-  font-family: 'Solitreo', cursive;
+font-family: 'Satisfy', cursive;
   font-size:60px;
+  text-shadow: 4px 4px 5px #ffffff;
   margin:60px;
   display:flex;
   justify-content:center;
-  color:white;
+  color:#1a1a1a;
 }
 img{
-  display:flex;
-  justify-content:flex-start;
-  margin:10px 1px 140px 140px;
-  box-shadow: 10px 10px 5px #737373;
+  margin:0px 0px 140px 0px;
+  box-shadow: 10px 10px 5px lightblue;
 }
 img:hover {
   transform:scale(1.06);
 }
 .fixDes{
-  margin-left:240px;
+  display:flex;
+  justify-content:space-around;
+}
+.fixDestwo{
+  display:flex;
+  justify-content:space-around;
+}
+.projectTitles{
+  text-shadow: 4px 4px 5px #666666;
+  font-size:32px;
+  font-family: 'Fjalla One', sans-serif;
+  color:white;
+  margin-left:110px;
+}
+.returnPage{  
+  text-shadow: 4px 4px 5px #666666;
+  margin:20px;
+  font-family: 'Courgette', cursive;
+  font-size:45px;
+  color:white;
+  text-decoration: none;
+  display:flex;
+  justify-content:center;
+}
+.returnPage:hover{
+  background-color:lightblue;
+}
+.centerTwos{
+  text-decoration: none;
+  display:flex;
+  justify-content:center;
 }
